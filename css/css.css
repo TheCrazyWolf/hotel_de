@@ -1,3 +1,17 @@
+@font-face {
+    font-family: Mons Regular;
+    src: url(fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: Mons Bold;
+    src: url(fonts/Montserrat-Bold.ttf);
+}
+
+.a {
+    font-family: Mons Regular;
+}
+
 .container-head {
     display: flex;
     width: 100%;
